@@ -13,7 +13,7 @@
 
 ## 💻 Sobre o Projeto
 
-COnstruido um kit de utilidades para um e-commerce, o projeto deve ser escalável para ter adição de novas features.
+Construido um kit de utilidades para um e-commerce, o projeto deve ser escalável para ter adição de novas features.
 
 ## 📚 Habilidades e Níveis de Conhecimento
 
